@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Master Data Has been changed!!!!!
+=======
+hello Everyone
+Welcome Everyone
+Hii Rekha Sharma
+Branch 2.0 is going to get updated!!!!!
+>>>>>>> 2.0
